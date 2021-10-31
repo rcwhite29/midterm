@@ -1,0 +1,44 @@
+/* This is your fonts font-family: 'Poppins', font-family: 'Zen Antique', */
+
+body {
+width: 50%;
+margin: auto
+}
+
+.head{
+font-family: 'Zen Antique', serif;
+}
+
+.head#h1 {
+    font-size: 25px
+}
+
+.head#byline {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.head#pub {
+    font-size: 15px;
+    font-weight: 200;
+    color: grey;
+}
+
+.head#subhead {
+    font-size: 20px;
+}
+
+#masthead {
+    line-height: 25px;
+}
+
+.copy {
+font-family: 'Poppins', 'Helvetica', 'Arial', sans-serif;
+font-size: 16px;
+}
+
+.interlinks {
+    font-style: italic;
+    font-family: 'Poppins', 'Helvetica', 'Arial', sans-serif;
+    font-size: 16px;
+}
