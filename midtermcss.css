@@ -42,3 +42,45 @@ font-size: 16px;
     font-family: 'Poppins', 'Helvetica', 'Arial', sans-serif;
     font-size: 16px;
 }
+
+.photo {
+    width: 100%;
+}
+
+.photo.sidebyside {;
+}
+
+#groupphoto {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.photo.graphic {
+    width: 50%;
+    float: right;
+    margin-left: 50px;
+}
+
+.photo.map {
+    width: 50%;
+}
+
+#circlemap {
+    display: flex;
+    justify-content: center;
+}
+
+.copy.cutline {
+    font-size: 10px;
+}
+
+#pullquote {
+    margin: 50px 0px 50px 0px;
+    background-color:#f5f5f5;
+    border-left: 5px solid #ffd18c;
+}
+
+.copy.blockquote {
+    font-size: 20px;
+}
