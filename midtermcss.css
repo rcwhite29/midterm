@@ -58,6 +58,14 @@ font-size: 16px;
     justify-content: space-around;
 }
 
+#photoone {
+    margin-right: 10px;
+}
+
+#phototwo {
+    margin-left: 10px;
+}
+
 .photo.graphic {
     width: 50%;
     float: right;
